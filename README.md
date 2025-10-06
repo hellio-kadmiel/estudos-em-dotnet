@@ -19,14 +19,21 @@ Este repositório documenta minha evolução nos fundamentos de C#, com exemplos
 ### ✅ Programação Orientada a Objetos
 - **📁 ClassesObjetos/** - Implementação de classes, métodos e propriedades
 
+ 
+### ✅ Estruturas de Repetição e Controle
+- **📁 Contador/** - FOR, WHILE, DO WHILE com debugging
+- **📁 MenuInterativo/** - Sistema com switch case e fluxo controlado
+- **📁 EstruturasRepeticao/** - Loops e controle de fluxo
+
+
 ### ✅ Utilitários
 - **📁 Datas/** - Manipulação de DateTime e formatações personalizadas
 
 ## 🛠 Tecnologias Utilizadas
 
-- .NET 6+
-- C# 10
+- .NET 9+
+- C# 
 - Visual Studio Code
 - Git & GitHub
 
-## 📊 Estrutura do Repositório
+
