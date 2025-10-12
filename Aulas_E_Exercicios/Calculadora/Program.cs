@@ -1,7 +1,7 @@
 ﻿using System;
 using ExemploFundamentos.Models;
 
-namespace ExemploFundamentos
+namespace Calculadora.Net
 {
     public class Program
     {

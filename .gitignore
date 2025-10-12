@@ -48,3 +48,4 @@ coverage.json
 
 *.orig
 profraw/
+.fake
