@@ -20,8 +20,6 @@ namespace Arrays.Models
 
 
 
-        // Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
-
 
         Console.WriteLine("percorrendo o Array com o for");
         for (int contador = 0; contador < arrayInteiros.Length; contador++)
