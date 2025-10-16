@@ -9,6 +9,7 @@ Este repositório documenta minha evolução nos fundamentos de C#, com exemplos
 ## 🎯 Tópicos Estudados
 
 ### ✅ Fundamentos Completos
+- **📁 ExemploProjeto/** - Projeto com Construtores, arrays, encapsulamento
 - **📁 Calculadora/** - Operações matemáticas e funções trigonométricas
 - **📁 Operadores/** - Operadores aritméticos e de comparação  
 - **📁 OperadoresLogicos/** - AND (&&), OR (||), NOT (!)
@@ -24,9 +25,8 @@ Este repositório documenta minha evolução nos fundamentos de C#, com exemplos
 
 ## 🛠 Tecnologias Utilizadas
 
-- .NET 6+
+- .NET 9
 - C# 10
 - Visual Studio Code
 - Git & GitHub
 
-## 📊 Estrutura do Repositório
