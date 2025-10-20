@@ -16,7 +16,7 @@ Este repositório documenta minha evolução nos fundamentos de C#, com exemplos
 - **📁 Conversoes/** - Parse, TryParse, casting entre tipos
 - **📁 TiposDeDados/** - Variáveis, tipos primitivos e formatação
 - **📁 Switch/** - Estruturas de controle com switch case
-
+- **📁 FilasEPilhas/** - Estruturas de controle com switch case
 ### ✅ Programação Orientada a Objetos
 - **📁 ClassesObjetos/** - Implementação de classes, métodos e propriedades
 

@@ -1,4 +1,12 @@
-﻿using ExemploProjeto.Models;
+﻿using System;
+using System.Collections.Generic;
+using ExemploProjeto.Models;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
 
 Pessoa p1 = new Pessoa( nome:"Hellio", sobrenome:"Bonfim");
 Pessoa p2 = new Pessoa(nome:"Jaquelson", sobrenome:"Bonfim");
@@ -13,3 +21,5 @@ CursoDeIngles.AdicionarAluno(p1);
 CursoDeIngles.AdicionarAluno(p2);
 CursoDeIngles.ListarAlunos();
 p1.Apresentar();
+ }
+ }

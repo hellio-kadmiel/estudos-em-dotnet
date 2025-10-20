@@ -26,23 +26,4 @@ namespace TiposDeDados
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
