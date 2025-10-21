@@ -12,8 +12,10 @@ Este repositório documenta minha evolução nos fundamentos de C#, com exemplos
 - **📁 ExemploProjeto/** - Projeto com Construtores, arrays, encapsulamento
 - **📁 Calculadora/** - Operações matemáticas e funções trigonométricas
 - **📁 Operadores/** - Operadores aritméticos e de comparação  
+- **📁 IfTernario/** - Operador IfElse ternario impar e par
 - **📁 OperadoresLogicos/** - AND (&&), OR (||), NOT (!)
 - **📁 Conversoes/** - Parse, TryParse, casting entre tipos
+- **📁 Tuplas/** - Tupas = varios conjuntos de dados
 - **📁 TiposDeDados/** - Variáveis, tipos primitivos e formatação
 - **📁 Switch/** - Estruturas de controle com switch case
 - **📁 FilasEPilhas/** - Estruturas de controle com switch case
