@@ -16,6 +16,8 @@ Este repositório documenta minha evolução nos fundamentos de C#, com exemplos
 - **📁 OperadoresLogicos/** - AND (&&), OR (||), NOT (!)
 - **📁 Conversoes/** - Parse, TryParse, casting entre tipos
 - **📁 Tuplas/** - Tupas = varios conjuntos de dados
+- **📁 Deserializacao/** - Pegando um arquivo Json e tirando os dados dele
+- **📁 Serializacao/** - Lendo um arquivo Json tratanto os dados
 - **📁 TiposDeDados/** - Variáveis, tipos primitivos e formatação
 - **📁 Switch/** - Estruturas de controle com switch case
 - **📁 FilasEPilhas/** - Estruturas de controle com switch case
