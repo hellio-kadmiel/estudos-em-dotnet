@@ -21,6 +21,7 @@ Este repositório documenta minha evolução nos fundamentos de C#, com exemplos
 - **📁 Serializacao/** - Lendo um arquivo Json tratanto os dados
 - **📁 TiposDeDados/** - Variáveis, tipos primitivos e formatação
 - **📁 Switch/** - Estruturas de controle com switch case
+- **📁 ClassesAbstrata/** - Estruturas de Classe Abstrata com conta
 - **📁 FilasEPilhas/** - Estruturas de controle com switch case
 - **📁 MenuInterativo/** - Menu com while / switch case
 ### ✅ Programação Orientada a Objetos
