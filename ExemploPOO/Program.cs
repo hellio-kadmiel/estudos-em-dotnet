@@ -1,5 +1,8 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.ConstrainedExecution;
 using System.Security.Cryptography;
+using ExemploPOO.Interfaces;
 using ExemploPOO.Models;
 
 
@@ -7,6 +10,11 @@ public class Program
 {
     public static void Main(string[] args)
   {
+    ICalculadora cal = new Calculadora();
+    Console.WriteLine($"Soma: {cal.Multiplicar(10, 5)}");
+    Computador comp = new Computador();
+    comp.ToString();
+    Console.WriteLine(comp.ToString());
 
     Aluno a1 = new Aluno();
     a1.Nome = "Carlos";
